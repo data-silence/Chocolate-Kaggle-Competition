@@ -7,5 +7,5 @@ This repository contains a notebook with my final solution to the [Chocolate](ht
 The competition was organized as part of the [Practical Machine Learning](https://stepik.org/course/125501/syllabus) course, with over a hundred participants. 
 The goal of the competition was to predict the quality rating of chocolate based on its characteristics. 
 Initially, the organizers planned to run the competition for three months, but later decided to keep it open for continuous participation. 
-During the first four months, my solution held the first place. Today, 
-over a year since the start, it holds the sixth place.
+During the first four months, my solution held the __1st place__. Today, 
+over a year since the start, it holds the __6th__ place.
